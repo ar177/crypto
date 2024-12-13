@@ -1,5 +1,0 @@
-{
-  "devDependencies": {
-    "@babel/plugin-transform-private-methods": "^7.25.9"
-  }
-}
